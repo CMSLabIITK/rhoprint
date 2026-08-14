@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use rhoprint in your research, please cite it as below."
+title: "rhoprint: physically interpretable descriptors from VASP charge densities"
+type: software
+version: 0.1.0
+date-released: 2026-08-15
+license: MIT
+authors:
+  - name: "CMS Lab, IIT Kanpur"
+    affiliation: "Department of Materials Science and Engineering, IIT Kanpur"
+repository-code: "https://github.com/CMSLabIITK/rhoprint"
+
+# TODO: add/adjust individual author names (given-names / family-names)
+# once you decide the author list & order for the package release.
+
+preferred-citation:
+  type: TODO: fill in the correct citation type once the paper is published
+  title: "TODO"  # TODO: confirm exact published title
+  journal: "TODO"  # TODO: confirm exact published journal
+  year: 2026
+  # TODO: fill in volume, issue, pages, and DOI once available
+  authors:
+    - name: "Shubham K Maurya"
+      affiliation: "Department of Materials Science and Engineering, IIT Kanpur"
+    - name: "Somnath Bhowmick"
+      affiliation: "Department of Materials Science and Engineering, IIT Kanpur"
+
+# TODO: add a second `references:` entry once the follow-up paper
+# (the one this library's functionals directly support) is published,
+# so both are citable from this file.

@@ -4,7 +4,7 @@ Physically interpretable descriptors ("fingerprints") extracted from VASP
 charge-density (`CHGCAR`) files, for materials-informatics and ML
 interpretability studies.
 
-Developed at **CMS Lab, IIT Kanpur** (Department of Materials Science and
+Developed at **CMS Lab, IIT Kanpur** (Author Shubham Maurya, Department of Materials Science and
 Engineering) alongside work on charge-density-informed ML models for
 elastic-property prediction (bulk modulus, shear modulus, Young's modulus,
 formation energy, Debye temperature).

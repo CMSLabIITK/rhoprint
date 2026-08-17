@@ -167,9 +167,7 @@ rhoprint batch --data_dir /path/to/materials --out_csv results/full_functionals.
 See [`CITATION.cff`](CITATION.cff).
 
 > **Zenodo DOI: pending.** The repo is owned by the CMS Lab GitHub org; a
-> permanent Zenodo DOI will be minted once someone with org access enables
-> the GitHub→Zenodo integration and cuts a tagged release. Until then, cite
-> the GitHub repository and version tag directly.
+> permanent Zenodo DOI will be minted.
 
 ## License
 

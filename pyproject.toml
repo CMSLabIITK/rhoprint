@@ -4,12 +4,12 @@ build-backend = "hatchling.build"
 
 [project]
 name = "rhoprint"
-version = "0.1.0"
+version = "0.1.1"
 description = "Physically interpretable descriptors extracted from VASP charge-density (CHGCAR) files, for materials-informatics and ML interpretability studies."
 readme = "README.md"
 license = "MIT"
 authors = [
-    { name = "CMS Lab, IIT Kanpur" },
+    { name = "Shubham Maurya, CMS Lab, IIT Kanpur" },
 ]
 requires-python = ">=3.9"
 keywords = [
